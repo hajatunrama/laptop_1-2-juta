@@ -1,0 +1,111 @@
+{
+  "uniques": {
+    "Country": [
+      "Brazil",
+      "Canada",
+      "China",
+      "Germany",
+      "India",
+      "Japan",
+      "Pakistan",
+      "UAE",
+      "UK",
+      "USA"
+    ],
+    "Laptop_Brand": [
+      "Acer",
+      "Apple",
+      "Asus",
+      "Dell",
+      "HP",
+      "Lenovo",
+      "MSI"
+    ],
+    "Laptop_Model": [
+      "Inspiron",
+      "MacBook",
+      "Nitro",
+      "Pavilion",
+      "ROG",
+      "Stealth",
+      "ThinkPad"
+    ],
+    "CPU_Brand": [
+      "AMD",
+      "Apple",
+      "Intel"
+    ],
+    "GPU_Brand": [
+      "AMD",
+      "Intel",
+      "NVIDIA"
+    ],
+    "GPU_Model": [
+      "Iris Xe",
+      "RTX 3050",
+      "RTX 3060",
+      "RTX 3070",
+      "RTX 3080",
+      "RX 6600",
+      "RX 6700"
+    ],
+    "Usage_Type": [
+      "Basic",
+      "High-End Gaming",
+      "Professional",
+      "Student"
+    ]
+  },
+  "ranges": {
+    "RAM_GB": {
+      "min": 4.0,
+      "max": 64.0,
+      "median": 16.0
+    },
+    "Storage_GB": {
+      "min": 128.0,
+      "max": 2048.0,
+      "median": 512.0
+    },
+    "Cores": {
+      "min": 2.0,
+      "max": 16.0,
+      "median": 6.0
+    },
+    "Threads": {
+      "min": 4.0,
+      "max": 32.0,
+      "median": 12.0
+    },
+    "Base_Clock": {
+      "min": 1.0,
+      "max": 4.0,
+      "median": 2.5
+    },
+    "Boost_Clock": {
+      "min": 2.0,
+      "max": 5.5,
+      "median": 3.75
+    },
+    "TDP": {
+      "min": 15.0,
+      "max": 125.0,
+      "median": 45.0
+    },
+    "CPU_Performance": {
+      "min": 400.0,
+      "max": 8800.0,
+      "median": 2532.0
+    },
+    "GPU_Performance": {
+      "min": 900.0,
+      "max": 3800.0,
+      "median": 2200.0
+    },
+    "Total_Performance": {
+      "min": 1300.0,
+      "max": 12600.0,
+      "median": 4920.0
+    }
+  }
+}
